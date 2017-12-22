@@ -3,28 +3,28 @@
     {
       "id": 0,
       "reto": "Velocidad",
-      "description": "20 golpes en 10 seg",
+      "description": "golpes en 10 seg",
       "golpes": 23,
       "fotoId": "2130837601"
     },
     {
       "id": 1,
       "reto": "Velocidad",
-      "description": "40 golpes en 15 seg",
+      "description": "golpes en 15 seg",
       "golpes": 43,
       "fotoId": "2130837602"
     },
     {
       "id": 2,
-      "reto": "Velocidad",
-      "description": "80 golpes en 25 seg",
+      "reto": "Fuerza",
+      "description": "fuerza promedio 130Kgf",
       "golpes": 73,
       "fotoId": "2130837600"
     },
     {
       "id": 3,
       "reto": "Velocidad",
-      "description": "100 golpes en 40 seg",
+      "description": "fuerza promedio 130Kgf, fuerza maxima 180Kgf",
       "golpes": 93,
       "fotoId": "2130837590"
     }
