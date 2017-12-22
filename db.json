@@ -2,28 +2,28 @@
   "usuario": [
     {
       "id": 0,
-      "reto": "reto1",
+      "reto": "Velocidad",
       "description": "20 golpes en 10 seg",
       "golpes": 23,
       "fotoId": "2130837601"
     },
     {
       "id": 1,
-      "reto": "reto2",
+      "reto": "Velocidad",
       "description": "40 golpes en 15 seg",
       "golpes": 43,
       "fotoId": "2130837602"
     },
     {
       "id": 2,
-      "reto": "reto3",
+      "reto": "Velocidad",
       "description": "80 golpes en 25 seg",
       "golpes": 73,
       "fotoId": "2130837600"
     },
     {
       "id": 3,
-      "reto": "reto4",
+      "reto": "Velocidad",
       "description": "100 golpes en 40 seg",
       "golpes": 93,
       "fotoId": "2130837590"
